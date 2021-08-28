@@ -1,4 +1,0 @@
-create a array of objects with food data
-with properties (name,price,quantity)
-
-and display it using a for loop in the console
