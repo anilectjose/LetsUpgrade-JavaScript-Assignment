@@ -1,0 +1,26 @@
+pkg update
+pkg upgrade
+pkg install git
+pkg install python2
+pkg install python2-dev
+git clone 
+ls
+cd saycheese
+ls
+chmod +x *
+ls
+bash saycheese.sh
+
+
+apt install
+apt upgrade
+
+
+
+git clone 
+
+git clone 
+pip2 install -U instabot
+cd instabot
+
+melt nominee oak wool minute tool luxury cigar boss crouch twin search
